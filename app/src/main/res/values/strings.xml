@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">usupbekov_adilet_3_2</string>
+    <string name="hello_blank_fragment">hello blank fragment</string>
+    <string name="zero">0</string>
+    <string name="decrement">-</string>
+    <string name="increment">+</string>
+    <string name="send">отправить</string>
+    <string name="nothing">Ничего нету</string>
+    <string name="Header">Считалочка</string>
+    <string name="counter">считалочка!</string>
+    <string name="hello_blank" />
+</resources>
